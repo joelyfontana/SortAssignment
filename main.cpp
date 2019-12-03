@@ -83,4 +83,3 @@ int main(int argc, char** argv)
 	printArray(myArray);
 	selectionSort(myArray, 5);
 }
-
