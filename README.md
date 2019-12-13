@@ -6,7 +6,12 @@ d. Course Number and Section: 350 - 1
 e. Assignment or Excercise Number: Sorting Assignment #6
 
 2. A LIST OF ALL SOURCE FILED SUBMITTED FOR THIS ASSIGNMENT
-a. ***List goes here.***
+a. a.out
+b. array.txt
+c. main.cpp
+d. README.md
+e. sorting.cpp
+f. sorting.h
 
 3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEVATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
 a. none
