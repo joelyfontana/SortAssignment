@@ -33,6 +33,7 @@ int main(int argc, char** argv)
 	getline(inputFile, line);
 	//make the line representing size into an integer
 	int size = stoi(line);
+	cout << "size: " << size << endl;
 
 	//make an array of doubles of the size (MAKE IT DYNAMIC)
 	double* bubbleArray = new double[size];
@@ -40,6 +41,7 @@ int main(int argc, char** argv)
 	double* insertArray = new double[size];
 	double* quickArray = new double[size];
 	double* mergeArray = new double[size];
+	
 	
 	//put the contents of the file into the array
 	for (int i = 0; i < size; i++)

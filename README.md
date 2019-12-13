@@ -1,27 +1,27 @@
 1. IDENTIFYING INFORMATION
-a. Full Name:
-b. Student ID:
-c. Chapman Email: @chapman.edu
-d. Course Number and Section:
-e. Assignment or Excercise Number:
+a. Full Name: Joely Fontana
+b. Student ID: 2313535
+c. Chapman Email: fontana@chapman.edu
+d. Course Number and Section: 350 - 1
+e. Assignment or Excercise Number: Sorting Assignment #6
 
 2. A LIST OF ALL SOURCE FILED SUBMITTED FOR THIS ASSIGNMENT
 a. ***List goes here.***
 
 3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEVATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
-a. ***Answer goes here.***
+a. none
 
 4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
-a. ***Answer goes here.***
+a. start and end time - 
+	https://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c
+	https://codereview.stackexchange.com/questions/132852/easy-to-use-c-class-for-asking-current-time-stamp-in-milli-micro-and-nanose
 
-5. INSTRUCTIONS FOR RUNNING THE ASSIGNMENT
-a. ***Answer goes here.***
+b. quick sort - 
+	https://codereview.stackexchange.com/questions/77782/quick-sort-implementation
+	https://www.geeksforgeeks.org/quick-sort/
 
+c. merge sort - 
+	https://www.geeksforgeeks.org/merge-sort/
+	https://stackoverflow.com/questions/47527499/value-of-parameter-cannot-be-used-as-a-constant-c?noredirect=1&lq=1
 
-start and end time - 
-https://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c
-https://codereview.stackexchange.com/questions/132852/easy-to-use-c-class-for-asking-current-time-stamp-in-milli-micro-and-nanose
-
-quick sort - 
-https://codereview.stackexchange.com/questions/77782/quick-sort-implementation
-https://www.geeksforgeeks.org/quick-sort/
+d. Stephen White (for merge sort)

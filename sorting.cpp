@@ -185,38 +185,6 @@ void sorting::merge(double* mergeArray, int leftLength, int rightLength, int mid
 		j++;
 		k++;
 	}
-
-	//failed attempt
-	/*while (low <= middle && j <= high)
-	{
-		if (mergeArray[low] < mergeArray[j])
-		{
-			temp[index] = mergeArray[low];
-			low++;
-		}
-		else
-		{
-			temp = mergeArray[j];
-			j++;
-		}
-	}
-
-	while (low <= middle)
-	{
-		temp = mergeArray[low];
-		low++;
-	}
-
-	while (j <= high)
-	{
-		temp = mergeArray[j];
-		j++;
-	}
-
-	for (int i = low; i <= high; i++)
-	{
-		mergeArray[i] = temp[i - low];
-	}*/
 }
 
 void sorting::mergeSort(double mergeArray[], int leftLength, int rightLength)
